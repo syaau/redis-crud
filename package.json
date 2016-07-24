@@ -1,0 +1,24 @@
+{
+  "name": "redis-crud",
+  "version": "0.0.1",
+  "description": "A simple library for CRUD functionalities using REDIS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syaau/redis-crud.git"
+  },
+  "keywords": [
+    "redis",
+    "model",
+    "crud"
+  ],
+  "author": "Ranjan Shrestha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syaau/redis-crud/issues"
+  },
+  "homepage": "https://github.com/syaau/redis-crud#readme"
+}
