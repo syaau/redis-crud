@@ -4,7 +4,7 @@
   "description": "A simple library for CRUD functionalities using REDIS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,7 @@
     "chai": "^3.5.0",
     "fakeredis": "^1.0.3",
     "mocha": "^2.5.3",
-    "sinon": "^1.17.4"
+    "sinon": "^1.17.4",
+    "then-fakeredis": "^2.0.1"
   }
 }
