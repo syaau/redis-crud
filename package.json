@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/syaau/redis-crud/issues"
   },
-  "homepage": "https://github.com/syaau/redis-crud#readme"
+  "homepage": "https://github.com/syaau/redis-crud#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "sinon": "^1.17.4"
+  }
 }
