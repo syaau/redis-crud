@@ -1,3 +1,3 @@
 module.exports = {
-  generateModel: require('./generateModel'),
+  generateModel: require('./src/generateModel'),
 };
